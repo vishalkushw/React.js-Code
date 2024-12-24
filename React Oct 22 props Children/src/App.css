@@ -1,0 +1,19 @@
+#demo{
+    color: blueviolet;
+    border: 2px solid red;
+    width: 30%;
+    background-color: aqua;
+    padding-left: 90px;
+}
+
+
+
+#demo:hover{
+background-color: brown;
+border: 2px solid skyblue;
+transform: rotate(-20deg);
+background: none;
+border: none;
+
+}
+
