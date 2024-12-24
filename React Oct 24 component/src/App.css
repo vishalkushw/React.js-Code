@@ -1,0 +1,13 @@
+h1{
+    color: white;
+    background-color: blue;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+
+h1:hover{
+    color: brown;
+    background-color: rgb(0, 255, 55);
+    margin-left: 30%;
+}
