@@ -1,8 +1,6 @@
-
-
 // const App=()=>{
-//   const name=["Vishal","Pawan","Ram","Sandeep"];
-//   const data=name.map((item)=>{
+// const name=["Vishal","Pawan","Ram","Sandeep"];
+// const data=name.map((item)=>{
 
 //     return(
 //       <>

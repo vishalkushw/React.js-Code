@@ -1,0 +1,39 @@
+#demo {
+    text-align: center;
+    color: rgb(25, 0, 255);
+    font-size: 40px;
+ }
+
+#data {
+    width: 200vh;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  #emp {
+    background-color: #9c1919;
+    color: #fff;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    width: 22%;
+    text-align: center;
+  }
+  
+  #emp h1 {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+ #emp h2 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
