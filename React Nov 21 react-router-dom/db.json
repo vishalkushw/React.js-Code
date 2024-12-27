@@ -1,0 +1,46 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "rollno": 121,
+      "name": "vishal",
+      "city": "vidisha",
+      "fees": 43534
+    },
+    {
+      "id": "2",
+      "rollno": 123,
+      "name": "sumit",
+      "city": "sehore",
+      "fees": 40334
+    },
+    {
+      "id": "3",
+      "rollno": 124,
+      "name": "pawan",
+      "city": "vidisha",
+      "fees": 43534
+    },
+    {
+      "id": "b8c5",
+      "rollno": "125",
+      "name": "ram",
+      "city": "indore",
+      "fees": "23433"
+    },
+    {
+      "id": "cb65",
+      "rollno": "123",
+      "name": "vishal",
+      "city": "bhopal",
+      "fees": "21111"
+    },
+    {
+      "id": "9ece",
+      "rollno": "145",
+      "name": "arun ",
+      "city": "guna",
+      "fees": "45643"
+    }
+  ]
+}
