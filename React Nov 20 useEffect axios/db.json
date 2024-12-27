@@ -1,0 +1,35 @@
+{
+    "student":[
+        {
+            "rollno":121,
+            "name":"Vishal",
+            "city":"vidisha",
+            "fees":42000
+        },
+        {
+            "rollno":122,
+            "name":"pawan",
+            "city":"bhopal",
+            "fees":34440
+        },
+        {
+            "rollno":123,
+            "name":"Sumit",
+            "city":"vidisha",
+            "fees":33000
+        },
+        {
+            "rollno":124,
+            "name":"ram",
+            "city":"sehore",
+            "fees":42000
+        },
+        {
+            "rollno":125,
+            "name":"Vishal",
+            "city":"vidisha",
+            "fees":42000
+        }
+
+    ]
+}
