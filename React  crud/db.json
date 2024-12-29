@@ -1,0 +1,18 @@
+{
+  "tractors": [
+    {
+      "id": "1",
+      "name": "Tractor 1",
+      "price": "500000",
+      "launchDate": "2022-01-01",
+      "ownerName": "Vishal kushwah"
+    },
+    {
+      "id": "2",
+      "name": "Tractor 2",
+      "price": "600000",
+      "launchDate": "2022-02-01",
+      "ownerName": "Pawan "
+    }
+  ]
+}
