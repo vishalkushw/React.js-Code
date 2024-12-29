@@ -1,0 +1,46 @@
+{
+  "Tractor": [
+    {
+      "company": "Mahindra",
+      "model": "545",
+      "price": "600000",
+      "year": "2021",
+      "id": "2"
+    },
+    {
+      "company": "New Holland",
+      "model": "755",
+      "price": "845000",
+      "year": "2020",
+      "id": "3"
+    },
+    {
+      "company": "Sonalika",
+      "model": "344",
+      "price": "520000",
+      "year": "2017",
+      "id": "4"
+    },
+    {
+      "company": "Swaraj",
+      "model": "755",
+      "price": "723000",
+      "year": "2016",
+      "id": "5"
+    },
+    {
+      "company": "Eicher",
+      "model": "420",
+      "price": "560000",
+      "year": "2019",
+      "id": "6"
+    },
+    {
+      "id": "101a",
+      "company": "Preet",
+      "model": "555",
+      "year": "2011",
+      "price": "439099"
+    }
+  ]
+}
