@@ -8,7 +8,7 @@ const Cybrom=()=>{
         
         <>
         <div style={{textAlign:"center"}}>
-        <h1> Welcome to counter program</h1>
+        <h1> Welcome to counter program </h1>
         <button onClick={()=>{dispatch(increment())}}>Increment</button>
         <h1>{myval}</h1>
         <button onClick={()=>{dispatch(decrement())}}>decrement</button>
