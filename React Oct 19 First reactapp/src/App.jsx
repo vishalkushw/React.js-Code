@@ -1,7 +1,3 @@
-
-const data="Indore";
-
-
 const App=()=>{
 
   return(
