@@ -7,13 +7,13 @@ const Header =()=>{
             </div>
 
             <div id="head">
-                vishal kushwah
+                Pawan
             </div>
             <div id="head">
-                vishal kushwah
+                Ram 
             </div>
             <div id="head">
-                vishal kushwah
+                sumit
             </div>
         </div>
 
