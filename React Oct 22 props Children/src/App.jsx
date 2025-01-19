@@ -1,14 +1,3 @@
-
-// const App=()=>{
-//   return(
-//     <h1>This is My First React App  ....Create by Vishal </h1>
-    
-//   )
-// }
-
-// export default App;
-
-
 // import React from "react";
 // const data=React.createElement("h1",{},"well come to bhopal");
 // const data=(<h1> well come to bhopal </h1>); 
