@@ -7,7 +7,7 @@ h1{
 }
 
 h1:hover{
-    color: brown;
+    color: rgb(201, 24, 24);
     background-color: rgb(0, 255, 55);
     margin-left: 30%;
 }
