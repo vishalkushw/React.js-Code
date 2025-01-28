@@ -25,7 +25,7 @@ function App() {
       <Header/>
 
       
-      <h4>Thish is div</h4>
+      <h4>Thish is div section</h4>
 
     </>
   )
