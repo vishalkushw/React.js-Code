@@ -4,7 +4,7 @@ const Footer=()=>{
     return(
         <>
           <h1>Footer Page Data</h1>
-            This is our Footer page data
+            This is our Footer Page Data
             <LeftFooter/>
             <RightFooter/>
         
