@@ -66,7 +66,7 @@ const App=()=>{
     {
        "rollno":121,
        "name":"vishal",
-       "city":"bhopal"
+       "city":"vidisha"
     },
 
     {
