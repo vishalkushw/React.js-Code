@@ -20,7 +20,7 @@ function App() {
          
        </nav>
 
-      <h1>Well come to my First react app</h1>
+      <h1>Well Come to My First react app</h1>
       <h3>create by Vishal kushwah </h3>
       <Header/>
 
