@@ -58,7 +58,7 @@ const ans=Data.map((key)=>{
       <hr size="1"  color="red"/>
       <table>
          <tr>
-            <th>Sno</th>
+            <th>Snom</th>
             <th>Work</th>
             <th></th>
          </tr>
