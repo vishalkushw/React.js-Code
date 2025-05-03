@@ -83,7 +83,7 @@ const ans=Data.map((key)=>{
       Enter task : <input type="text" value={val} 
       onChange={(e)=>{setVal(e.target.value)}} />
         {btnStatus?  <button onClick={handleSubmit} >Add</button> : 
-        <button onClick={()=>{editSave()}}>Edit save</button>}
+        <button onClick={()=>{editSave()}}>Edit Save</button>}
       <hr size="1" color="red" />
       <table>
         <tr>
