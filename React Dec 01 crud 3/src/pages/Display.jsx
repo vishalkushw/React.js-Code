@@ -38,7 +38,7 @@ const Display=()=>{
          <Table striped bordered hover>
       <thead>
         <tr>
-          <th> Book name</th>
+          <th>Book name</th>
           <th>Price</th>
           <th>Author Name</th>
           <th>Publish Year</th>
