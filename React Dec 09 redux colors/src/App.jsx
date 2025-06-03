@@ -19,7 +19,7 @@ const App=()=>{
       <br /><br />
       <div style={{width:"300px",height:"300px",backgroundColor:color,borderRadius:"50%", border:"2px solid black"}}>
 
-        <h1 style={{textAlign:"center",paddingTop:90}}>Vishal kushwah</h1>
+        <h1 style={{textAlign:"center",paddingTop:90}}>Vishal Kushwah</h1>
    </div> 
       </>
    )
