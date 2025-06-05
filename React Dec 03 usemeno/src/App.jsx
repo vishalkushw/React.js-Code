@@ -40,7 +40,7 @@ const App=()=>{
   return(
     <>
       <h1>Welcome to cybrom student</h1>
-      <h1>my mulification : {multi}</h1>
+      <h1>My mulification : {multi}</h1>
       <h1>My Increment</h1>
  
     </>
