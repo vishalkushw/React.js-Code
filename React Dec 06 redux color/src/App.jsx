@@ -12,7 +12,7 @@ const App=()=>{
      <br />
      <br />
      <div style={{width:"300px",height:"300px",background:myclr }}>
-          <h1 style={{textAlign:"center" ,paddingTop:100,color:"white"}}>Vishal kushwah</h1>
+          <h1 style={{textAlign:"center" ,paddingTop:100,color:"white"}}>Vishal Kushwah</h1>
      </div>
    
     </>
