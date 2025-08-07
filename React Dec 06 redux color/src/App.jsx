@@ -7,7 +7,7 @@ const App=()=>{
 
   return(
     <>
-     <h1> well come to my app</h1>
+     <h1> Well come to my app</h1>
      <button onClick={()=>{dispatch(changeColor())}}>click</button>
      <br />
      <br />
